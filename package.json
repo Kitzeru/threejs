@@ -3,6 +3,7 @@
     "gh-pages": "^5.0.0",
     "three": "^0.152.2"
   },
+  "homepage": "https://kitzeru.github.io/threejs",
   "name": "stufflol",
   "version": "1.0.0",
   "main": "main.js",
